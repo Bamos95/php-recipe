@@ -12,7 +12,7 @@ Pour installer Recipe, vous pouvez cloner le dépôt depuis GitHub en utilisant 
 
 ## Utilisation
 
-Une fois que vous avez cloné le dépôt, vous pouvez accéder au site web en ouvrant le fichier `index.html` dans votre navigateur web. Le site web vous permet de consulter les recettes existantes et d'ajouter de nouvelles recettes en utilisant le formulaire de soumission. Pour ajouter une nouvelle recette, vous devez remplir le formulaire en fournissant les informations nécessaires (nom de la recette, ingrédients, instructions de préparation, etc.) et soumettre le formulaire en cliquant sur le bouton "Ajouter".
+Une fois que vous avez cloné le dépôt, vous pouvez accéder au site web en ouvrant le fichier `home.php` dans votre navigateur web. Le site web vous permet de consulter les recettes existantes et d'ajouter de nouvelles recettes en utilisant le formulaire de soumission. Pour ajouter une nouvelle recette, vous devez remplir le formulaire en fournissant les informations nécessaires (nom de la recette, ingrédients, instructions de préparation, etc.) et soumettre le formulaire en cliquant sur le bouton "Ajouter".
 
 ## Contribuer
 
